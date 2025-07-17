@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "37737824184",
+    "project_id": "cari-dekormu-f21d6",
+    "storage_bucket": "cari-dekormu-f21d6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37737824184:android:bbb04c5e822fc33d84d94d",
+        "android_client_info": {
+          "package_name": "com.example.cari_dekormu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbe6OfdQgY0g9gExilFA-BQrzd-uH7_9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
